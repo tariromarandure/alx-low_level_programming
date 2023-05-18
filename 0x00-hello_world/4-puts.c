@@ -2,9 +2,10 @@
 /**
  * main - A program that prints a line with puts function
  * REturn: 0 (Success)
- */.
-int main(void)
+ */
+int main(void) 
 {
-puts("\"Programming is like building a multilingual puzzlel");
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
+
